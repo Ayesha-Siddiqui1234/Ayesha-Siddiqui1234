@@ -63,8 +63,6 @@
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ayesha-siddiqui-851291293/)  
-[![Saylani](https://img.shields.io/badge/Saylani-Mass%20IT%20Training-green)](https://saylaniwelfare.com/)  
-[![ICodeGuru](https://img.shields.io/badge/ICodeGuru-Community-orange)](https://icode.guru/)  
-
----
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow)](https://leetcode.com/u/Ayesha_Siddiqui1827/)  
+[![LabLab.ai](https://img.shields.io/badge/LabLab.ai-Projects-purple)](https://lablab.ai/u/@Ayesha_Siddiqui)  
 ✨ *“Keep learning, keep building, and keep exploring the endless world of technology!”*  
