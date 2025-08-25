@@ -5,7 +5,6 @@
 
 ## 👩‍🎓 About Me
 - 🎓 Currently pursuing **BSc in Computer Science (CSIT)**  
-- 🏫 Alumna of **Junior Branch Karachi (JRBNA)**  
 - 📚 Passionate about **Problem Solving, Cryptography, AI & Full-Stack Development**  
 - 🌱 Always eager to learn and explore new technologies  
 
@@ -47,8 +46,10 @@
 ---
 
 ## 📌 Projects
-- 🔐 [Hybrid Cryptography Project](link-to-repo) – Combined encryption & steganography for secure communication  
-- 🎬 [ChatCinema - Hackathon Project](link-to-repo) – Interactive Movie Information & Dataset Generation Platform built in an International Hackathon  
+- 📝 [Feedback Form](https://github.com/Ayesha-Siddiqui1234/feedBackForm) – Simple and responsive feedback form built with HTML, CSS & JavaScript  
+- 🏫 [LAS Smart School Website](https://github.com/Ayesha-Siddiqui1234/las-smart-school) – A complete school website project with responsive design  
+- 🐍 [Snake Game](https://github.com/Ayesha-Siddiqui1234/SNAKE-GAME) – Classic Snake Game built with Python  
+- 🏨 [Hudson Resort Website](https://github.com/Ayesha-Siddiqui1234/HUDSON-RESORT-WEBSITE) – Hotel & resort website showcasing rooms, services, and booking  
 - 🖥️ Streamlit Apps:  
   - Random Quote Generator  
   - Temperature Converter  
