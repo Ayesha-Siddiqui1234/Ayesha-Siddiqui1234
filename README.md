@@ -32,7 +32,6 @@
 ---
 
 ## 🏆 Experience & Internships
-- 💻 **MERN Stack Developer Training** – [Saylani Mass IT Training](https://saylaniwelfare.com/)  
 - 👩‍💻 **Internship (CSIT Department)** – Hands-on experience in projects and practical learning  
 
 ---
