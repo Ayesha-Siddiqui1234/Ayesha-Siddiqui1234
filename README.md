@@ -11,7 +11,7 @@
 ---
 
 ## 🧑‍🏫 Trainer & Moderator
-- 🎤 **Trainer & Moderator at [ICodeGuru]https://docs.google.com/spreadsheets/d/1S6CxXUs_1RZjOfoDL4nef2hA3qqxNd3weR_NJwap-Q8/edit?gid=0#gid=0**  
+- 🎤 **Trainer & Moderator at [ICodeGuru] https://docs.google.com/spreadsheets/d/1S6CxXUs_1RZjOfoDL4nef2hA3qqxNd3weR_NJwap-Q8/edit?gid=0#gid=0**  
 - 🖥️ Delivered **Webinars in PEC on Generative AI**  
 - 🎓 Conducted **DSA (Data Structures & Algorithms)** and **IELTS Preparation Sessions**  
 - 🌍 Delivered **CS50x Puzzle Day Webinar** (collaboration with **Harvard, MIT & Cambridge**)  
