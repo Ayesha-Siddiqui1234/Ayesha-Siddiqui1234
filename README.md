@@ -5,7 +5,7 @@
 
 ## 👩‍🎓 About Me
 - 🎓 Currently pursuing **BSc in Computer Science (CSIT)**  
-- 📚 Passionate about **Problem Solving, Cryptography, AI & Full-Stack Development**  
+- 📚 Passionate about **Problem Solving,Gen AI & Mern-Stack Development**  
 - 🌱 Always eager to learn and explore new technologies  
 
 ---
